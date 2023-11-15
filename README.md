@@ -1,4 +1,4 @@
-# Java Spring Example
+# Java Spring Boot and Swagger Project
 
 Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
